@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @config-tech
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
